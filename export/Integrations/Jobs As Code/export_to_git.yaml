@@ -9,8 +9,8 @@ agentCluster: null
 agentClusterVar: null
 agentVar: null
 autoCleanup: false
-avgRunTime: 80
-avgRunTimeDisplay: 1 Minute 20 Seconds
+avgRunTime: 67
+avgRunTimeDisplay: 1 Minute 7 Seconds
 booleanField1:
   label: UC SSL Certificate  Verification
   name: uc_ssl_cert_verification
@@ -116,9 +116,9 @@ largeTextField3:
   label: Remove UC Definitions List
   name: remove_uc_definitions_list
   value: null
-lastRun: 2023-04-24 11:32:41 +0700
-lastRunTime: 80
-lastRunTimeDisplay: 1 Minute 20 Seconds
+lastRun: 2023-04-24 11:57:02 +0700
+lastRunTime: 53
+lastRunTimeDisplay: 53 Seconds
 lfDayConstraint: None
 lfDuration: 00:00:00:00
 lfEnabled: false
@@ -138,8 +138,8 @@ lsTime: 00:00
 lsType: Time
 maxRunTime: 80
 maxRunTimeDisplay: 1 Minute 20 Seconds
-minRunTime: 80
-minRunTimeDisplay: 1 Minute 20 Seconds
+minRunTime: 53
+minRunTimeDisplay: 53 Seconds
 name: export_to_git
 notes: []
 opswiseGroups: []
@@ -169,8 +169,8 @@ retryIndefinitely: false
 retryInterval: 60
 retryMaximum: 0
 retrySuppressFailure: false
-runCount: 1
-runTime: 80
+runCount: 2
+runTime: 133
 runtimeDir: null
 simulation: false
 startHeld: false
